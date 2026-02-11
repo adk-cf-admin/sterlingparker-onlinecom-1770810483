@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#17191E",
+            "lang-select-color": "#222829",
+            "bg-light": "#17191E",
+            "welcome-bonus-bg": "#17191E",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#2B3139",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#40464f",
+            "text-head": "#D49E36",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#D49E36",
+            "yellow": "#40464f",
+            "yellow-button": "#D49E36",
+            "button-text": "#D49E36",
+            "main-button-text": "#2B3139",
+            "border-color": "#efefdc",
+            "casino-cards": "#17191E",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#4e4e50",
+            "providers-back": "#17191E",
+            "faq-label": "#17191E",
+            "bg-footer": "#17191E",
+            "copyright": "#e7e7d5",
+            "starColor": "#40464f",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2920"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2921",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Sterling Parker Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2922",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Sterling Parker"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Sterling Parker",
+                    "title": "Sterling Parker: Competitive Odds, Smart Multis & Fast Payouts",
+                    "description": "Bet on sport and racing in one account. Enjoy Same Game Multi and Same Race Multi, clear odds, rewarding specials, and reliable withdrawals. Secure platform, helpful support, and responsible wagering tools for a smooth experience.",
+                    "canonical": "sterlingparker-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2923",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "sterlingparker-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2924"
+                },
+                "hero": {
+                    "title": "Sterling Parker — Online Sports & Racing Betting",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2925",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2926",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Fast withdrawals straight to your bank.",
+                        "Broad markets: sport and racing bets.",
+                        "Same Game Multi for big fixtures.",
+                        "Same Race Multi for quick racing plays.",
+                        "Regular odds boosts and bet specials.",
+                        "Flexible limits to manage your spend.",
+                        "Account security with strong verification tools."
+                    ],
+                    "advantagesAfterText": "We’re built for a smooth betting experience from selection to settlement. Our mobile-first design makes placing and tracking bets effortless. We focus on clear rules, reliable payouts, and responsible wagering features.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Sterling Parker App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2927",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Sterling Parker App",
+                    "mobileGooglePlayImageTitle": "Sterling Parker App",
+                    "mobileIosImageTitle": "Sterling Parker App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Sterling Parker",
+                        "description1": "We stand out with fast settlement and a single account for sport and racing. We offer odds boosts and smarter multi-building features to increase your winning potential.\n",
+                        "items": [
+                            "Winnings up to $50,000.",
+                            "Bonus bets up to $200.",
+                            "Multi returns up to x1,000."
+                        ],
+                        "description2": "We’re a betting platform that brings sport and racing together in one streamlined place, so you can find events fast and wager the way you like. Our markets cover popular competitions and headline fixtures, alongside racing options built for quick decisions. We focus on clear odds presentation so you can see potential returns instantly and manage risk confidently. \n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2928",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "For combining selections, we provide multi formats that let you build a match or race narrative on a single slip. Across the platform, we run themed activities tied to major sporting weeks and key racing days. During these periods, we add special markets, expanded selections, and personalised offers to make the experience more engaging. We support bonus programs inside your account that can enhance play through bonus bets, insurance-style promos, and odds boosts. Offers are designed to be simple to use for both new and experienced punters. We value returning customers and grow a loyalty program where activity turns into privileges and extra opportunities. The more you participate in bets and promos, the more benefits you can unlock in your account. We invest in convenience: bet slip, bet history, and quick actions are always within reach on desktop and mobile. For smooth account control, we provide straightforward funding and withdrawal flows so you can manage your balance efficiently. We follow responsible wagering principles and offer tools for limits, breaks, and self-exclusion so betting stays entertainment. We apply verification procedures to protect your account and ensure accurate payouts. Our support team helps with settings, payments, and features so you can stay focused on the action. We’re here to deliver a modern service where usability, security, and value work together. It’s easy to start, enjoyable to continue, and simple to return to your favourite markets anytime."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Sterling Parker: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nVisiting & Responsible Wagering Rules: Play Safely and Confidently\n<\/h3>\n\n<p>\nWe provide access to our platform to adults only. To use all features, you’ll need an account with accurate personal details. We may request identity checks to protect your profile and ensure correct payouts. We enforce fair-play standards and prohibit any attempt to manipulate markets or outcomes. We support responsible wagering and encourage mindful bankroll management. We offer limit tools so you can control deposits and activity in advance. We allow breaks and self-exclusion if you need time out. We safeguard payments and data and follow anti-fraud requirements. Please don’t share your login or use someone else’s payment methods. We reserve the right to restrict activity if we detect rule breaches or security risks. Our support team is available if you have questions about the rules. Our goal is a comfortable, secure betting experience for everyone.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccess Conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge: available to users 18+ only.\n\n<\/li>\n            <li>• \nAccount: one account per person, real details required.\n\n<\/li>\n            <li>• \nVerification: ID and address checks for payouts and safety.\n\n<\/li>\n            <li>• \nAvailability: access within permitted jurisdictions only.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited Activities\n\n\n<\/h4>\n\n <ul>\n            <li>• \nUsing someone else’s documents, cards, or bank details.\n\n<\/li>\n            <li>• \nCreating multiple accounts to gain benefits.\n\n<\/li>\n            <li>• \nUsing bots, scripts, or circumvention tools.\n\n<\/li>\n            <li>• \nAbusing promotions, including bonus misuse.\n\n<\/li>\n\t    <li>• \nAttempting to influence outcomes or mislead others.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible Wagering\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLimits: deposit limits daily\/weekly\/monthly.\n\n<\/li>\n            <li>• \nTime-out: short-term break from wagering access.\n\n<\/li>\n            <li>• \nSelf-exclusion: longer or permanent account lock.\n\n<\/li>\n            <li>• \nControl tools: bet history and reminders to track activity.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicence & Security: How We Protect Your Account and Data<\/h3>\n\n<p>\nWe operate as a licensed bookmaker and follow regulatory requirements to provide a fair and safe wagering environment. Our licensing means we meet standards for customer identification, payment handling, and accurate bet settlement. We apply oversight procedures to protect punters and reduce fraud risks. We regularly update our internal policies to align with current rules and industry best practices. For you, this means clear terms, transparent rules, and confidence in reliable operations.\n\n<\/p>\n<br>\n\n\n<p>\nWe use comprehensive cybersecurity measures to protect personal and financial information. Data transmission between your device and our systems is secured with modern encryption protocols to reduce interception risk. We limit access under a “need-to-know” principle so only authorised systems and staff can process information. We monitor activity to detect unusual logins and irregular transactions. When needed, we may request additional verification to confirm the account holder is in control.\n\n<\/p>\n<br>\n<p>\nOur payment flows are designed for security at every stage, from deposits to withdrawals. We support established funding methods and apply extra checks when risk indicators appear. Identity verification helps secure your balance and supports smoother payout processing. We also apply anti-money laundering controls to protect the wagering ecosystem. All transactions are recorded in your account history so you can track funds and statuses clearly.\n\n<\/p>\n<br>\n<p>\nOur privacy policy explains what data we collect, why we collect it, and how long it’s stored. We use data to create and service your account, process payouts, improve the experience, and meet legal obligations. We do not sell personal data, and we limit sharing to what’s necessary, such as payment processing or regulatory compliance. You can manage parts of privacy and marketing preferences inside your profile settings. We also recommend a strong password and additional security features if available.\n\n<\/p>\n<br>\n<p>\nWe provide tools that help you stay in control and support safer wagering. Settings include deposit limits, breaks, and self-exclusion options, plus direct contact routes for safer gambling assistance. We support responsible play and can guide you in setting limits that match your comfort budget. We treat security as an ongoing process and continuously strengthen our protections. The result is a stable platform where you can focus on your bets and enjoyment.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCustomer Support: Fast Replies and Genuine Care\n<\/h3>\n\n<p>\nOur support team assists you at every step, from sign-up to withdrawals. We focus on quick, clear solutions so you don’t waste time. Live chat is ideal for real-time guidance, while email suits detailed cases that need step-by-step instructions. Phone support helps with urgent matters when speed is essential. We maintain high service standards: politeness, confidentiality, and easy-to-follow guidance. We handle questions about bets, odds, settlements, promotions, and account security. If you need verification help, we explain which documents are accepted and how to upload them correctly. For payment enquiries, we clarify transaction status and typical processing timelines. We also assist with responsible wagering tools and limit settings. We want you to feel confident and in control. We continuously improve our knowledge base and support workflows. Our goal is to resolve your issue quickly and professionally.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact Channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive Chat: fast, real-time assistance.\n\n<\/li>\n            <li>• \nEmail: detailed support with clear steps.\n\n<\/li>\n            <li>• \nPhone: urgent help and safer gambling guidance.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse Times & Service Quality\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: typically 1–3 minutes for first response in peak times.\n\n<\/li>\n            <li>• \nEmail: commonly 1–6 hours, complex cases up to 24 hours.\n\n<\/li>\n            <li>• \nPhone: minimal waiting with clear topic routing.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguage Availability\n\n\n<\/h4>\n\n <ul>\n            <li>• \nEnglish: primary support language.\n\n<\/li>\n            <li>• \nAdditional: where possible, we assist via extended support pathways and structured templates for widely used languages.\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Title for custom section",
+                        "description": "\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nOur Loyalty Program: More Activity, More Privileges\n<\/h3>\n<p>\nOur loyalty program is built for punters who enjoy coming back regularly and being rewarded for it. We award points for wagering activity across sport and racing, plus participation in selected promotions. Points unlock benefits such as bonus bets, personalised odds boosts, and access to exclusive activities. Joining is seamless after creating an account, so your progress starts right away. We’ve designed clear tiers: the higher your level, the stronger the value. Tier upgrades are based on your activity within a set period, so you can plan within your budget. We promote responsible wagering and encourage limit settings so loyalty stays a bonus, not a risk driver. Members receive more tailored offers because we learn preferences across sports and bet types. We also run missions and seasonal challenges that help you build points faster. Your status and progress are always visible in your profile for full transparency. Benefits can be activated in a few taps with minimal friction. Our goal is to thank you for choosing us and make every betting week more rewarding.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration Conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAutomatically enabled after account registration.\n\n<\/li>\n            <li>• \nIdentity verification for access to extended privileges.\n\n<\/li>\n            <li>• \nParticipation requires compliance with rules and responsible play.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers & How to Reach Them\n<\/h4>\n\n <ul>\n            <li>• \nBronze: 0–499 points per 30 days — starter perks.\n\n<\/li>\n            <li>• \nSilver: 500–1,499 points — more bonus bets and boosts.\n\n<\/li>\n            <li>• \nGold: 1,500–3,999 points — higher perk capacity.\n\n<\/li>\n            <li>• \nPlatinum: 4,000–7,999 points — personalised offers and early access.\n\n<\/li>\n\t    <li>• \nBlack: 8,000+ points — maximum perks and VIP handling.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPerks & Rewards \n<\/h4>\n\n <ul>\n            <li>• \nBonus bets up to $50\/week — use on selected markets.\n\n<\/li>\n            <li>• \nOdds Boost up to +20% — lift prices on key events.\n\n<\/li>\n            <li>• \nMulti insurance up to $25 — cover a multi with one leg missed (T&Cs apply).\n\n<\/li>\n            <li>• \nCashback up to 10% — return a portion of losses in promo windows.\n<\/li>\n\t    <li>• \nExclusive markets — special lines and expanded selections.\n\n<\/li>\n\t    <li>• \nPriority support — faster handling for complex enquiries.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses & Specials: More Value in Every Fixture\n<\/h3>\n\n<p>\nWe regularly run offers that make wagering more engaging and add extra value without complexity. Our odds boosts give you better prices on selected matches and tournaments, helping your potential return. For multi bets, we feature insurance-style promos where one missed leg can trigger a bonus bet back under set conditions. We also provide bonus bet offers across sport and racing that can be activated inside your account for extra flexibility. For major fixtures, we add special markets and expanded lines so you can build slips that match your preferred game narrative. During finals seasons and rivalry rounds, we roll out themed weeks with activities and personalised offers. In racing, we align specials with key meeting days, introducing boosts and multi-focused promotions. We also run prediction-style tournaments where you follow event rules and compete for prizes. Missions can appear in the platform, rewarding completion with added benefits. For new customers, we keep starter activities simple so you can learn the mechanics quickly. For returning punters, we offer tailored promo weeks that match your favourite sports. We prioritise clarity: offer terms are easy to understand before you participate. Most specials activate in a few taps with minimal steps. We encourage balance: promos enhance enjoyment while limit tools help you stay in control. With us, you can plan from singles to big multis around the calendar. We refresh offers often so there’s always something new to explore. Everything is designed to boost excitement across every match and every race.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nOffers & Promotions\n<\/h4>\n\n <ul>\n            <li>• \nOdds Boost up to +30% — lift prices on selected events.\n\n<\/li>\n            <li>• \nBonus Bet up to $100 — bonus bet reward under promo conditions.\n\n<\/li>\n            <li>• \nMulti Insurance up to $50 — bonus bet back if one leg misses.\n\n<\/li>\n            <li>• \nPrice Surge on key markets — improved prices on popular selections.\n\n<\/li>\n\t    <li>• \nCashback up to 10% — partial loss return during promo windows.\n\n<\/li>\n\t    <li>• \nPrediction tournaments prizes up to $5,000 — leaderboards and rewards.\n\n<\/li>\n\t    <li>• \nSeasonal sport weeks — special markets and boosted offers.\n\n<\/li>\n\t    <li>• \nRacing specials up to $25\/day — daily racing and multi promotions.\n\n<\/li>\n\t    <li>• \n“2+ events” combos — rewards for a qualifying series of bets.\n\n<\/li>\n\t    <li>• \nIn-account missions — tasks that unlock rewards on completion.\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nOur Betting Markets: Sport, Racing, and Smart Multis\n<\/h3>\n\n<p>\nWe offer both sport and racing wagering so you can choose your style—from fast singles to carefully built combinations. In sport, you’ll find popular markets like head-to-head, lines, totals, and expanded options as the season progresses. We include stats and event markets so you can build scenario-driven bets and shape your odds. For multi fans, we provide smooth multi-building tools, including combining selections within a single fixture. In racing, we support major race types with both straightforward and more complex bet structures. We focus on clarity: find your sport or meeting quickly and see markets instantly. Odds are displayed transparently, and potential returns calculate right inside the bet slip. You can track bet history, statuses, and settlements from your account. For marquee events, we expand market depth so you can find more angles to play. Everything is designed to work seamlessly on mobile and stay stable during peak times. We also provide responsible wagering tools so betting stays comfortable entertainment. Our goal is to deliver choice and modern wagering mechanics in one place.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMarkets & Formats\n<\/h4>\n\n <ul>\n            <li>• \nSingles — one selection, clear settlement.\n\n<\/li>\n            <li>• \nMultis — combined selections with higher potential return.\n\n<\/li>\n            <li>• \nSame Game Multi — multiple legs within one match.\n\n<\/li>\n            <li>• \nSame Race Multi — combine legs within one race.\n\n<\/li>\n\t    <li>• \nLive markets (where available) — fast in-event options.\n\n<\/li>\n\t    <li>• \nTotals\/lines — shape risk and price.\n\n<\/li>\n\t    <li>• \nPlayer & event stats — points, goals, periods, key moments.\n\n<\/li>\n\t    <li>• \nRacing: Win\/Place — core race outcomes.\n\n<\/li>\n\t    <li>• \nRacing: exotics — combinations and expanded markets (event-based).\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum & Maximum Stakes: Market-Based Guidelines\n<\/h3>\n\n<p> \nWe keep stake limits flexible so you can play small or scale up depending on the event and market. A low minimum stake helps you test strategies and multi combinations without heavy bankroll pressure. Maximum limits vary by event popularity, market type, and live conditions to maintain fair, balanced markets. You’ll always see the current limits in your bet slip before confirming.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #D49E36;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sports singles<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$20,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Multis<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Same Game Multi<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$5,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live markets<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$5,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Racing: Win \/ Place<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$15,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Racing: Same Race Multi<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$5,000<\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Racing: exotic markets<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$3,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bonus bets (promo-based)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1,000<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawals & Payout Speed: How We Process Your Winnings\n<\/h3>\n\n<p>\nWe keep withdrawals clear and convenient so you can access your funds smoothly. Once a bet is settled, your balance updates automatically and you can request a payout in a few steps. Bank transfer is our primary withdrawal method for reliability and security. Payout speed depends on verification status and protective security checks designed to safeguard your account. Completing identity verification early helps larger transactions run faster and more seamlessly. We process withdrawal requests under a defined workflow and aim to release funds as quickly as possible. Your request status is always visible in transaction history so you can track each stage. We may ask for extra details if we detect unusual activity, which is a standard safety measure. Withdrawal limits vary by method and account status to ensure secure settlements. We recommend using a personal bank account in your name for consistent processing. If you have timing questions, support can confirm expected timeframes and check your status. Our goal is reliable payouts, transparent tracking, and confidence in every withdrawal.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Methods\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBank transfer — primary withdrawal option.\n\n<\/li>\n            <li>• \nLinked account withdrawals — preferred for secure, accurate processing.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProcessing Timeframes\n\n\n<\/h4>\n\n <ul>\n            <li>• \nRequest handling: typically within hours up to 1 business day.\n\n<\/li>\n            <li>• \nBank clearance: commonly 1–3 business days (bank-dependent).\n\n<\/li>\n            <li>• \nPost-verification: faster, more consistent payouts.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Limits \n<\/h4>\n\n <ul>\n            <li>• \nMinimum withdrawal: from $10–$20 (account-based).\n\n<\/li>\n            <li>• \nDaily limit: up to $50,000 (status and checks apply).\n\n<\/li>\n            <li>• \nLarge withdrawals: may require extra confirmation for safety.\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How can I understand why a bet was settled a certain way?",
+                            "answer": "Bet history shows status, settlement time, and the final result. If market rules affect settlement, our support team can explain the outcome and conditions applied.\n\n\n"
+                        },
+                        {
+                            "title": "Can I cancel a bet after confirming it?",
+                            "answer": "Once confirmed, a bet typically goes live immediately. If a market supports cancellation in rare cases, it will be clearly displayed in the interface or market rules.\n\n\n"
+                        },
+                        {
+                            "title": "What happens if a match is postponed or cancelled?",
+                            "answer": "We handle these scenarios under standard market rules for postponements, cancellations, or format changes. The final status will appear in your bet history.\n\n\n"
+                        },
+                        {
+                            "title": "How do special markets work for major events?",
+                            "answer": "Special markets offer expanded options like stats, periods, combinations, and scenarios. They appear closer to the event and sit inside the match\/race view.\n\n\n"
+                        },
+                        {
+                            "title": "Why might I be asked to verify again?",
+                            "answer": "Re-verification can occur after detail changes, large withdrawals, or unusual activity. It’s an added safety step to ensure funds go to the rightful owner.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
